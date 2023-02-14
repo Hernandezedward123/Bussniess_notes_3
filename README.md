@@ -26,3 +26,4 @@
 - Support Sentences
 • Illustrate, explain, and strengthen the topic sentence
 • Provide details and evidence
+### Make sure to insert headings into a paragraph
